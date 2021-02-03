@@ -7,7 +7,7 @@ In order to check run these commands below:
 
 Served three endpoints described below.
 
-1. Served an endpoint that returns list of IBANS which can be used to test other endpoints:
+1. Served an endpoint that returns list of IBANS which can be used to test other endpoints: <br />
 ```http://localhost:8080/api/ibanlist```
 
 2. Served an endpoint for one IBAN validation that returns true or false respectively. <br />
